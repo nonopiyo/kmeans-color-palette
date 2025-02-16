@@ -5,9 +5,13 @@ This project applies **K-means clustering** to extract optimized color palettes 
 
 ## 🚀 Installation
 ```sh
-git clone your_github_repo_url
+git clone https://github.com/your-username/kmeans-color-palette.git
 cd kmeans-color-palette
-pip install -r requirements.txt
+pip install numpy
+pip install matplotlib
+pip install pandas
+pip install scikit-learn
+
 ```
 
 ## 📌 Usage
