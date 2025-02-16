@@ -17,7 +17,7 @@ pip install scikit-learn
 ## 📌 Usage
 ### Run the K-means color clustering script
 ```sh
-python kmeans_palette.py
+[python kmeans_palette.py](https://github.com/your-username/kmeans-color-palette.git)
 ```
 
 ### Upload changes to GitHub using Zsh script
