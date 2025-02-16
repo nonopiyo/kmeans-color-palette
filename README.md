@@ -28,7 +28,8 @@ python kmeans_palette.py
 ## 📊 Example Output
 This script clusters colors into meaningful palettes based on predefined themes. The result is saved and visualized as follows:
 
-![Example Palette](examples/output.png)
+![Example Palette]![output-3](https://github.com/user-attachments/assets/67a26d6b-f40d-4c1d-85e4-b229dca5d5b0)
+
 
 ## 📜 License
 MIT
